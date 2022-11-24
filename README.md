@@ -1,6 +1,6 @@
 - Project uit CLE4 | Opleiding CMGT, jaar 1 - Hogeschool Rotterdam
 - Eigenaar: Lucas Hijman namens Team PLayN' GameStudio
-- Vaste collaborateurs: Prewish en Najee
+- Vaste bijdragers: Prewish en Najee
 - Kaders: discovery, swindle & robots
 - Codetaal waarin wordt gewerkt is TypeScript
 - In dit project wordt gebruik gemaakt van de front-end library Phaser
